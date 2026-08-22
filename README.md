@@ -1,246 +1,311 @@
-# 👋 Hi, I'm Safwan
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 Software Engineer | DevOps & Cloud Enthusiast | Cyber Security Learner
+<!--                    SAFWAN • GITHUB PROFILE                    -->
 
-> **Learning. Building. Automating. Securing.** ⚡
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+%7C+Cloud+%7C+Cyber+Security;Building+and+Automating+with+DevOps;Exploring+DevSecOps+%26+Cloud+Security" alt="Typing SVG" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:6366f1&height=220&section=header&text=SAFWAN%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Cyber%20Security&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **B.Tech Information Technology graduate** and **Software Engineer** currently pursuing **DevOps training at SCOPE INDIA**.
-
-I'm building hands-on experience with **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform, and AWS** through practical projects and deployment workflows.
-
-I also have a foundation in **Cyber Security** through a 3-month internship at **SMEC Automation** during college.
-
-Currently, I'm focused on growing toward **DevSecOps, AWS, and Cloud Security**, while continuously improving my development, automation, and infrastructure skills.
-
----
-
-## ⚡ Profile Highlights
-
-|    |                                                 |
-| -- | ----------------------------------------------- |
-| 🎓 | **B.Tech — Information Technology**             |
-| 💻 | **Software Engineer**                           |
-| ☁️ | **DevOps Training — SCOPE INDIA**               |
-| 🔐 | **Cyber Security Internship — SMEC Automation** |
-| 🚀 | **Hands-on DevOps & Cloud Projects**            |
-| 🎯 | **Focused on DevSecOps & Cloud Security**       |
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
-
-### 🔧 Version Control & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-### 🐧 Operating Systems & Scripting
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🌐 Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-### 🔐 Security
-
-<p>
-<img src="https://img.shields.io/badge/DevSecOps-Focus-111827?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Security-Focus-0F766E?style=for-the-badge&logo=icloud&logoColor=white" />
-</p>
-
----
-
-## 📚 Currently Learning
 
 <p align="center">
-
-`☁️ AWS`   `🛡️ DevSecOps`   `🔐 Cloud Security`
-
-`☸️ Kubernetes`   `⚙️ Jenkins`   `🔧 Ansible`
-
-`🏗️ Terraform`   `☁️ Amazon EKS`   `🚀 DevOps Automation`
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Learning.+Building.+Automating.+Securing.;DevOps+%7C+AWS+%7C+Kubernetes+%7C+Docker;Exploring+DevSecOps+%26+Cloud+Security;Turning+Infrastructure+into+Automation+%F0%9F%9A%80" alt="Typing Animation"/>
 </p>
 
-> Continuously exploring new DevOps tools, cloud technologies, automation practices, and secure deployment methodologies.
+<p align="center">
+  <a href="https://github.com/Saf1111">
+    <img src="https://img.shields.io/badge/GitHub-Saf1111-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/safwan-s-a04993317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:safsafu786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-safsafu786%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 `whoami`
 
-### 🍔 Quick-Bite Delivery App
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**End-to-end DevOps deployment project**
+### 👨‍💻 Software Engineer
 
-A practical food delivery application used to demonstrate an end-to-end DevOps workflow involving source control, CI/CD, containerization, image management, Kubernetes orchestration, and AWS cloud deployment.
+I'm a **B.Tech Information Technology graduate** and Software Engineer currently pursuing **DevOps training at SCOPE INDIA**.
 
-**Tech:** `GitHub` `Jenkins` `Docker` `Docker Hub` `Kubernetes` `AWS EKS`
+I'm building hands-on experience with **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform and AWS** through practical projects and deployment workflows.
 
-🔗 **[View Repository](https://github.com/Saf1111/Quick-Bite-DeliveryApp)**
+I also have a foundation in **Cyber Security** through a **3-month internship at SMEC Automation** during college.
 
----
-
-### ⚙️ DevOps Project
-
-A practical web project created while learning and applying DevOps concepts and deployment workflows.
-
-🔗 **[View Repository](https://github.com/Saf1111/Devops-Project)**
-
----
-
-### 🌐 QEMS Website
-
-A web-based project developed as part of hands-on application development and project practice.
-
-🔗 **[View Repository](https://github.com/Saf1111/QEMS-Website)**
-
----
-
-### 🩸 SYS Blood Bank
-
-A web application project focused on blood bank/donor management functionality with a backend-oriented application structure.
-
-🔗 **[View Repository](https://github.com/Saf1111/SYS-Blood-Bank)**
-
----
-
-### 🔧 Jenkins Shared Library
-
-A hands-on **Jenkins Shared Library** project exploring reusable CI/CD pipeline components and Jenkins automation.
-
-🔗 **[View Repository](https://github.com/Saf1111/my_shared_library)**
-
----
-
-### ☕ Maven Web App
-
-A practical Maven-based web application used for exploring **Jenkins, Docker, Kubernetes, and deployment automation**.
-
-🔗 **[View Repository](https://github.com/Saf1111/maven-web-app)**
-
----
-
-### 🐍 Naan Mudhalvan Project
-
-A Python/Django-based project created as part of practical development experience.
-
-🔗 **[View Repository](https://github.com/Saf1111/naan-mudhalvan-project)**
-
----
-
-## 🏗️ DevOps Journey
+My current direction is:
 
 ```text
-                         ┌───────────────────┐
-                         │      SOURCE       │
-                         │   Git / GitHub    │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │       CI/CD       │
-                         │      Jenkins      │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │    CONTAINERIZE   │
-                         │      Docker       │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │  IMAGE REGISTRY   │
-                         │   Docker Hub      │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │   ORCHESTRATION   │
-                         │ Kubernetes / EKS  │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │      CLOUD        │
-                         │       AWS         │
-                         └─────────┬─────────┘
-                                   │
-                                   ▼
-                         ┌───────────────────┐
-                         │   APPLICATION     │
-                         │  Deploy • Scale   │
-                         │   Monitor • Secure │
-                         └───────────────────┘
-```
-
----
-
-## 🔄 What I'm Exploring
-
-```text
-Git & GitHub
-     ↓
-CI/CD & Jenkins
-     ↓
-Docker & Containerization
-     ↓
-Kubernetes & Amazon EKS
-     ↓
-Infrastructure Automation
-     ↓
-AWS Cloud
-     ↓
+DevOps
+   ↓
+Cloud
+   ↓
+Security
+   ↓
 DevSecOps
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,ansible,terraform,aws,python&perline=5" width="320"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DEVSECOPS-111827?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/SECURITY-CLOUD%20SECURITY-0F766E?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ `CURRENT MISSION`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-Learn-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-Build-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-Automate-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-Secure-14B8A6?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <b>Building practical knowledge across DevOps, Cloud Infrastructure and Security.</b>
+</p>
+
+---
+
+# 🧠 `TECH STACK`
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Amazon%20EKS-Container%20Orchestration-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🔄 CI/CD & Automation
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=jenkins,ansible,git,github,docker"/>
+</p>
+
+```text
+┌──────────┐
+│  GitHub  │
+└────┬─────┘
      ↓
-Cloud Security
+┌──────────┐
+│ Jenkins  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  Docker  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ DockerHub│
+└────┬─────┘
+     ↓
+┌──────────────┐
+│ Kubernetes   │
+│ / Amazon EKS │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     AWS      │
+└──────────────┘
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🐧 Systems & Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saf1111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html"/>
+</p>
+
+**Development**
+`HTML • Python`
+
+**Systems**
+`Linux • Red Hat Linux • Shell Commands`
+
+---
+
+# 🛡️ `SECURITY`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cyber%20Security-Foundation-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevSecOps-CURRENT%20FOCUS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Security-CURRENT%20FOCUS-0F766E?style=for-the-badge"/>
+
+</p>
+
+### 🔐 Security Journey
+
+```text
+Cyber Security Internship
+          │
+          ▼
+     DevOps Skills
+          │
+          ▼
+    Cloud / AWS
+          │
+          ▼
+      DevSecOps
+          │
+          ▼
+   Cloud Security
+```
+
+---
+
+# 🚀 `FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🍔 Quick-Bite
+
+**End-to-End DevOps Deployment**
+
+Food delivery application used to implement a practical DevOps workflow.
+
+`Jenkins` `Docker` `Docker Hub` `Kubernetes` `AWS EKS`
+
+<a href="https://github.com/Saf1111/Quick-Bite-DeliveryApp">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔧 Jenkins Shared Library
+
+**CI/CD Automation**
+
+Hands-on project exploring reusable Jenkins pipeline components and automation.
+
+`Jenkins` `Groovy` `CI/CD`
+
+<a href="https://github.com/Saf1111/my_shared_library">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## ☕ Maven Web App
+
+**DevOps Deployment Practice**
+
+Maven web application used for practical Jenkins, Docker and Kubernetes deployment learning.
+
+`Maven` `Jenkins` `Docker` `Kubernetes`
+
+<a href="https://github.com/Saf1111/maven-web-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🩸 SYS Blood Bank
+
+**Web Application**
+
+Blood bank / donor management project developed as a practical application project.
+
+`Node.js` `Express` `JavaScript`
+
+<a href="https://github.com/Saf1111/SYS-Blood-Bank">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+### 🌐 More Projects
+
+| Project                                                                | Focus           |
+| ---------------------------------------------------------------------- | --------------- |
+| 🌐 [QEMS Website](https://github.com/Saf1111/QEMS-Website)             | Web Development |
+| ⚙️ [DevOps Project](https://github.com/Saf1111/Devops-Project)         | DevOps / Web    |
+| 🐍 [Naan Mudhalvan](https://github.com/Saf1111/naan-mudhalvan-project) | Python / Django |
+
+---
+
+# 📚 `CURRENTLY LEARNING`
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<p align="center">
+
+### 🛡️ DevSecOps   •   ☁️ AWS   •   🔐 Cloud Security
+
+</p>
+
+> Exploring more DevOps tools and continuously improving through hands-on practice.
+
+---
+
+# 🎓 `LEARNING & EXPERIENCE`
+
+### ☁️ SCOPE INDIA
+
+**DevOps Training — Currently Pursuing**
+
+Hands-on learning across DevOps tools, cloud infrastructure, CI/CD, containerization, orchestration, automation and deployment.
+
+### 🔐 SMEC Automation
+
+**Cyber Security Internship — 3 Months**
+
+Built a foundation in Cyber Security concepts through practical exposure during college.
+
+---
+
+# 📊 `GITHUB ANALYTICS`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saf1111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saf1111&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -250,118 +315,105 @@ Cloud Security
 
 ---
 
-## 🌍 Languages
+# 🌍 `LANGUAGES`
 
-| Language       | Level                               |
-| -------------- | ----------------------------------- |
-| 🇮🇳 Malayalam | Fluent                              |
-| 🇬🇧 English   | Fluent                              |
-| 🇮🇳 Hindi     | Good understanding / Conversational |
-| 🇮🇳 Tamil     | Basic conversational                |
-| 🇸🇦 Arabic    | Beginner — Reading & Speaking       |
-| 🟢 Urdu        | Beginner                            |
+<p align="center">
 
----
+| 🇮🇳 Malayalam | 🇬🇧 English |   🇮🇳 Hindi   |
+| :------------: | :----------: | :------------: |
+|     Fluent     |    Fluent    | Conversational |
 
-## 🎓 Training & Experience
+|      🇮🇳 Tamil      |          🇸🇦 Arabic          |  🟢 Urdu |
+| :------------------: | :---------------------------: | :------: |
+| Basic Conversational | Beginner • Reading & Speaking | Beginner |
 
-### ☁️ DevOps Training — SCOPE INDIA
-
-**Currently pursuing**
-
-Hands-on learning and practical exposure across DevOps, cloud, containerization, orchestration, CI/CD, automation, and infrastructure technologies.
-
-### 🔐 Cyber Security Internship — SMEC Automation
-
-**3 Months — During College**
-
-Gained foundational exposure to Cyber Security concepts and practical industry-oriented learning.
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 🧭 `MY ROADMAP`
 
 ```text
-🛡️ DevSecOps
-☁️ AWS
-🔐 Cloud Security
-☸️ Kubernetes
-🏗️ Infrastructure as Code
-🔄 CI/CD Automation
+                    ┌─────────────────────┐
+                    │     SOFTWARE        │
+                    │      ENGINEER       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │       DEVOPS        │
+                    │  Learn • Build • Do │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┴──────────────┐
+                ▼                             ▼
+        ┌───────────────┐             ┌───────────────┐
+        │     CLOUD     │             │   AUTOMATION  │
+        │      AWS      │             │ CI/CD • IaC   │
+        └───────┬───────┘             └───────┬───────┘
+                │                             │
+                └──────────────┬──────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │      DEVSECOPS      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   CLOUD SECURITY    │
+                    └─────────────────────┘
 ```
 
 ---
 
-## 💡 My Approach
-
-> **Learn → Build → Break → Debug → Automate → Secure → Repeat**
-
-I'm focused on learning through practical implementation rather than only theory, building projects that help me understand how development, infrastructure, automation, cloud, and security work together.
-
----
-
-## 🤝 Let's Connect
+# 💭 `MY MINDSET`
 
 <p align="center">
-  <a href="https://github.com/Saf1111">
-    <img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/safwan-s-a04993317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:safsafu786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+### Learn by doing.
+
+### Build with purpose.
+
+### Automate what can be automated.
+
+### Secure what is deployed.
+
+### Improve every day.
+
 </p>
 
 ---
 
-## ⚡ A Little More About Me
+# 🤝 `CONNECT WITH ME`
 
-```yaml
-name: Safwan
-role: Software Engineer
+<p align="center">
 
-education:
-  degree: B.Tech Information Technology
+<a href="https://github.com/Saf1111">
+<img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github"/>
+</a>
 
-currently_learning:
-  - DevOps
-  - AWS
-  - Kubernetes
-  - Terraform
-  - Jenkins
-  - Ansible
-  - Amazon EKS
-  - DevSecOps
-  - Cloud Security
+<a href="https://www.linkedin.com/in/safwan-s-a04993317/">
+<img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-development:
-  - HTML
-  - Python
+<a href="mailto:safsafu786@gmail.com">
+<img src="https://img.shields.io/badge/Email-safsafu786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-security:
-  - Cyber Security Fundamentals
-  - DevSecOps
-  - Cloud Security
-
-mindset:
-  - Continuous Learning
-  - Hands-on Practice
-  - Automation
-  - Security
-```
+</p>
 
 ---
 
 <p align="center">
 
-### ⚡ Code it. Containerize it. Automate it. Secure it.
-
-**Always learning • Always building • Always improving 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0f172a&height=120&section=footer"/>
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saf1111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+## ⚡ Code it. Containerize it. Automate it. Secure it.
+
+### 🚀 Always Learning • Always Building • Always Improving
+
 </p>
