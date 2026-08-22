@@ -1,38 +1,46 @@
 <div align="center">
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                           -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,75:0369a1,100:06b6d4&text=SAFWAN%20S&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20CYBER%20SECURITY&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
+
 <br>
 
-### 👋 Hi, I'm
+<h3>👋 Hi, I'm</h3>
 
 # 💠 **SAFWAN S**
 
-### 💻 Software Engineer  |  DevOps & Cloud Enthusiast  |  Cyber Security Learner
+### `Software Engineer` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Cloud` &nbsp;•&nbsp; `Cyber Security`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Learning.+Building.+Automating.+Securing.;DevOps+%7C+AWS+%7C+Kubernetes+%7C+Docker;Exploring+DevSecOps+%26+Cloud+Security;Turning+Infrastructure+into+Automation+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Automating+%E2%80%A2+Securing;DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+Ansible+%7C+Terraform+%7C+Amazon+EKS;Exploring+DevSecOps+%26+Cloud+Security;Turning+Infrastructure+into+Automation+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=3&width=700" width="70%"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-22d3ee?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVSECOPS-8b5cf6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-ff9900?style=for-the-badge&labelColor=020617"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/Saf1111">
-<img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/safwan-s-a04993317/">
-<img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-&nbsp;
+
 <a href="mailto:safsafu786@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Saf1111&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Saf1111&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
 </div>
 
@@ -40,55 +48,68 @@
 
 <div align="center">
 
-## 🧑‍💻 ABOUT ME
+# 🧊 ABOUT ME
 
-<br>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="800">
+
+<br>
 
 🎓 **B.Tech Information Technology Graduate**
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 💻 **Software Engineer**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
 
 ☁️ **Currently pursuing DevOps Training at SCOPE INDIA**
 
-</td>
-</tr>
+🔐 **3-Month Cyber Security Internship — SMEC Automation**
 
-<tr>
-<td align="center">
+🚀 **Building hands-on experience with DevOps & Cloud technologies**
 
-🔐 **Cyber Security Internship — SMEC Automation**
+🎯 **Currently focused on DevSecOps, AWS & Cloud Security**
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td align="center">
+I'm passionate about learning through **real-world projects, deployment,
+automation and troubleshooting** rather than only theoretical learning.
 
-🎯 **Focused on DevSecOps, AWS & Cloud Security**
+<br>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ MY DEVOPS UNIVERSE
+
 <br>
 
-I'm building practical experience across **DevOps, Cloud Infrastructure, Automation and Security** through hands-on projects and continuous learning.
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,ansible,terraform,aws,python&perline=5&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -96,132 +117,121 @@ I'm building practical experience across **DevOps, Cloud Infrastructure, Automat
 
 <div align="center">
 
-## ⚡ PROFILE HIGHLIGHTS
+# ☁️ CLOUD & CONTAINERIZATION
 
 <br>
 
-<img src="https://img.shields.io/badge/🎓%20B.Tech-Information%20Technology-2563EB?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💻%20Role-Software%20Engineer-111827?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/☁️%20Training-DevOps%20%40%20SCOPE%20INDIA-0EA5E9?style=for-the-badge"/>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/🔐%20Internship-Cyber%20Security-7C3AED?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀%20Approach-Hands--On%20Learning-0F766E?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎯%20Focus-DevSecOps%20%7C%20AWS%20%7C%20Cloud%20Security-F59E0B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="70"/>
 
-</div>
+### AWS
 
----
+Cloud Infrastructure
 
-<div align="center">
+</td>
 
-# 🧠 TECH STACK
+<td align="center" width="250">
 
-## ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="70"/>
 
-<br>
+### Docker
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" />
+Containerization
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/Amazon%20EKS-Container%20Orchestration-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<td align="center" width="250">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="70"/>
 
-## 🔄 CI/CD & Automation
+### Kubernetes
 
-<br>
+Orchestration
 
-<img src="https://skillicons.dev/icons?i=jenkins,ansible,git,github&theme=dark" />
+</td>
 
-<br><br>
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/Docker%20Hub-Container%20Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="70"/>
 
-<br><br>
+### Terraform
 
-## 🐧 Systems & Development
+Infrastructure as Code
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,html&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🛡️ SECURITY
-
-<br>
-
-<img src="https://img.shields.io/badge/🔐%20Cyber%20Security-Foundation-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🛡️%20DevSecOps-Current%20Focus-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️%20Cloud%20Security-Current%20Focus-0F766E?style=for-the-badge"/>
-
-<br><br>
-
-```text id="8y1y0e"
-        CYBER SECURITY
-               │
-               ▼
-             DEVOPS
-               │
-               ▼
-              AWS
-               │
-               ▼
-           DEVSECOPS
-               │
-               ▼
-        CLOUD SECURITY
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 📚 CURRENTLY LEARNING
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins,ansible,docker&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20EKS-Managed%20Kubernetes-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br><br>
+</div>
 
-### 🛡️ DevSecOps   •   ☁️ AWS   •   🔐 Cloud Security
+---
+
+<div align="center">
+
+# 🔄 CI/CD PIPELINE
 
 <br>
 
-<i>Continuously exploring new DevOps tools, cloud technologies and secure deployment practices.</i>
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github"/>
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/BUILD-JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/CONTAINER-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+⬇️
+
+<br>
+
+<img src="https://img.shields.io/badge/REGISTRY-DOCKER%20HUB-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/ORCHESTRATION-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/CLOUD-AMAZON%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br><br>
+
+⬇️
+
+<br>
+
+<img src="https://img.shields.io/badge/DEPLOYMENT-AUTOMATION-8B5CF6?style=for-the-badge"/>
+&nbsp; ⟶ &nbsp;
+<img src="https://img.shields.io/badge/SECURE-DEVSECOPS-14B8A6?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛡️ SECURITY JOURNEY
+
+<br>
+
+<img src="https://img.shields.io/badge/CYBER%20SECURITY-FOUNDATION-111827?style=for-the-badge"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/DEVOPS-HANDS--ON-0EA5E9?style=for-the-badge"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/AWS-CLOUD-FF9900?style=for-the-badge"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/DEVSECOPS-FOCUS-7C3AED?style=for-the-badge"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/CLOUD%20SECURITY-GOAL-0F766E?style=for-the-badge"/>
+
+<br><br>
+
+### 🔐 Secure the pipeline. Secure the infrastructure. Secure the cloud.
 
 </div>
 
@@ -231,18 +241,18 @@ I'm building practical experience across **DevOps, Cloud Infrastructure, Automat
 
 # 🚀 FEATURED PROJECTS
 
-</div>
+<br>
 
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="50%">
 
-## 🍔 Quick-Bite
+### 🍔 QUICK-BITE
 
-**End-to-End DevOps Deployment**
+#### End-to-End DevOps Deployment
 
-Food delivery application used to demonstrate a practical CI/CD, containerization, Kubernetes and AWS deployment workflow.
+Food delivery application used for practical DevOps deployment and automation.
 
 <br>
 
@@ -254,18 +264,18 @@ Food delivery application used to demonstrate a practical CI/CD, containerizatio
 <br><br>
 
 <a href="https://github.com/Saf1111/Quick-Bite-DeliveryApp">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center" width="50%">
 
-## 🔧 Jenkins Shared Library
+### 🔧 JENKINS SHARED LIBRARY
 
-**CI/CD Automation**
+#### CI/CD Automation
 
-Reusable Jenkins pipeline components created as hands-on DevOps practice.
+Reusable Jenkins pipeline components created through hands-on DevOps learning.
 
 <br>
 
@@ -275,7 +285,7 @@ Reusable Jenkins pipeline components created as hands-on DevOps practice.
 <br><br>
 
 <a href="https://github.com/Saf1111/my_shared_library">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -286,11 +296,11 @@ Reusable Jenkins pipeline components created as hands-on DevOps practice.
 
 <td align="center" width="50%">
 
-## ☕ Maven Web App
+### ☕ MAVEN WEB APP
 
-**DevOps Deployment Practice**
+#### DevOps Deployment Practice
 
-Maven-based web application used for practical Jenkins, Docker and Kubernetes deployment learning.
+Maven-based application used for Jenkins, Docker and Kubernetes practice.
 
 <br>
 
@@ -302,18 +312,18 @@ Maven-based web application used for practical Jenkins, Docker and Kubernetes de
 <br><br>
 
 <a href="https://github.com/Saf1111/maven-web-app">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td align="center" width="50%">
 
-## 🩸 SYS Blood Bank
+### 🩸 SYS BLOOD BANK
 
-**Web Application**
+#### Web Application
 
-A practical web application focused on blood bank and donor management.
+Practical blood bank and donor management application.
 
 <br>
 
@@ -323,7 +333,7 @@ A practical web application focused on blood bank and donor management.
 <br><br>
 
 <a href="https://github.com/Saf1111/SYS-Blood-Bank">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -331,22 +341,20 @@ A practical web application focused on blood bank and donor management.
 </tr>
 </table>
 
-<div align="center">
-
-### 🌐 More Projects
-
 <br>
 
+### 🌐 MORE PROJECTS
+
 <a href="https://github.com/Saf1111/QEMS-Website">
-<img src="https://img.shields.io/badge/QEMS%20Website-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/QEMS%20WEBSITE-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/Saf1111/Devops-Project">
-<img src="https://img.shields.io/badge/DevOps%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/DEVOPS%20PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/Saf1111/naan-mudhalvan-project">
-<img src="https://img.shields.io/badge/Naan%20Mudhalvan-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/NAAN%20MUDHALVAN-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -355,39 +363,62 @@ A practical web application focused on blood bank and donor management.
 
 <div align="center">
 
-# 🔄 DEVOPS JOURNEY
+# 📚 CURRENTLY LEARNING
 
 <br>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins,ansible,docker&theme=dark"/>
 
 <br><br>
 
-```text id="5om6vo"
-SOURCE CODE
-     ↓
-CI / CD
-     ↓
-CONTAINERIZATION
-     ↓
-IMAGE MANAGEMENT
-     ↓
-ORCHESTRATION
-     ↓
-CLOUD DEPLOYMENT
-     ↓
-SECURE INFRASTRUCTURE
-```
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+<br><br>
+
+### 🛡️ DevSecOps &nbsp; • &nbsp; ☁️ AWS &nbsp; • &nbsp; 🔐 Cloud Security
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎓 EXPERIENCE
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="400">
+
+### ☁️ SCOPE INDIA
+
+**DevOps Training**
+
+Currently pursuing hands-on DevOps training covering cloud, CI/CD, containers, orchestration, automation and infrastructure.
+
+</td>
+
+<td align="center" width="400">
+
+### 🔐 SMEC AUTOMATION
+
+**Cyber Security Internship**
+
+3-month internship during college providing foundational exposure to Cyber Security.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -399,15 +430,27 @@ SECURE INFRASTRUCTURE
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saf1111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saf1111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saf1111&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saf1111&theme=tokyonight&hide_border=true" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saf1111&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saf1111&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION ACTIVITY
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -419,15 +462,15 @@ SECURE INFRASTRUCTURE
 
 <br>
 
-<img src="https://img.shields.io/badge/Malayalam-Fluent-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-Fluent-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hindi-Conversational-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇮🇳%20Malayalam-Fluent-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇮🇳%20Hindi-Conversational-F59E0B?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Tamil-Basic%20Conversational-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arabic-Beginner%20%7C%20Reading%20%26%20Speaking-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Urdu-Beginner-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇮🇳%20Tamil-Basic%20Conversational-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇸🇦%20Arabic-Beginner%20%7C%20Reading%20%26%20Speaking-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢%20Urdu-Beginner-64748B?style=for-the-badge"/>
 
 </div>
 
@@ -439,14 +482,45 @@ SECURE INFRASTRUCTURE
 
 <br>
 
-<img src="https://img.shields.io/badge/DevOps-Current%20Journey-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Focus-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevSecOps-Future%20Direction-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Security-Focus-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-DEVOPS-22D3EE?style=for-the-badge&labelColor=020617"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/02-AWS-FF9900?style=for-the-badge&labelColor=020617"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/03-DEVSECOPS-8B5CF6?style=for-the-badge&labelColor=020617"/>
+&nbsp; ➜ &nbsp;
+<img src="https://img.shields.io/badge/04-CLOUD%20SECURITY-14B8A6?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-### 🧭 Learn → Build → Automate → Secure → Improve
+### 🚀 Building towards secure, automated and scalable cloud infrastructure.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 MY MINDSET
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-22D3EE?style=for-the-badge&labelColor=020617"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD-3B82F6?style=for-the-badge&labelColor=020617"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/AUTOMATE-8B5CF6?style=for-the-badge&labelColor=020617"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/SECURE-14B8A6?style=for-the-badge&labelColor=020617"/>
+&nbsp; →
+&nbsp;
+<img src="https://img.shields.io/badge/IMPROVE-F59E0B?style=for-the-badge&labelColor=020617"/>
+
+<br><br>
+
+> **Learn by doing. Build with purpose. Automate what can be automated. Secure what is deployed.**
 
 </div>
 
@@ -472,7 +546,7 @@ SECURE INFRASTRUCTURE
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Saf1111&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
+### 📍 Software Engineer • DevOps Learner • Cloud & Security Enthusiast
 
 </div>
 
@@ -480,10 +554,10 @@ SECURE INFRASTRUCTURE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:6366f1&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:06b6d4,40:0369a1,70:0f172a,100:020617&section=footer&animation=twinkling&text=KEEP%20BUILDING%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-### ⚡ Code it. Containerize it. Automate it. Secure it.
+### ⚡ **Code it. Containerize it. Automate it. Secure it.**
 
-**Always Learning • Always Building • Always Improving 🚀**
+**Always Learning • Always Building • Always Improving**
 
 </div>
