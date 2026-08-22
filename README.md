@@ -1,23 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Safwan
+<br>
 
-### 💻 Software Engineer | DevOps & Cloud Enthusiast | Cyber Security Learner
+### 👋 Hi, I'm
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Learning.+Building.+Automating.+Securing.;DevOps+%7C+AWS+%7C+Kubernetes+%7C+Docker;Exploring+DevSecOps+%26+Cloud+Security" alt="Typing SVG"/>
+# 💠 **SAFWAN S**
+
+### 💻 Software Engineer  |  DevOps & Cloud Enthusiast  |  Cyber Security Learner
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Learning.+Building.+Automating.+Securing.;DevOps+%7C+AWS+%7C+Kubernetes+%7C+Docker;Exploring+DevSecOps+%26+Cloud+Security;Turning+Infrastructure+into+Automation+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=3&width=700" width="70%"/>
 
 <br>
 
 <a href="https://github.com/Saf1111">
-<img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Saf1111-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/safwan-s-a04993317/">
-<img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Safwan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:safsafu786@gmail.com">
@@ -26,7 +32,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Saf1111&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Saf1111&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -34,104 +40,119 @@
 
 <div align="center">
 
-## 🧑‍💻 About Me
-
-</div>
-
-<div align="center">
-
-I'm a **B.Tech Information Technology graduate** and **Software Engineer** currently pursuing **DevOps training at SCOPE INDIA**.
-
-I am building hands-on experience with **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Ansible, Terraform and AWS** through practical projects and deployment workflows.
-
-I also have a foundation in **Cyber Security** through a **3-month internship at SMEC Automation** during college.
-
-My current direction is focused on **DevSecOps, AWS and Cloud Security**, while continuously improving my development, automation and infrastructure skills.
-
-</div>
+## 🧑‍💻 ABOUT ME
 
 <br>
 
-<div align="center">
-
-## ⚡ Profile Highlights
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="180">
+<td align="center">
 
-### 🎓
-
-**Education**
-
-B.Tech
-Information Technology
+🎓 **B.Tech Information Technology Graduate**
 
 </td>
+</tr>
 
-<td align="center" width="180">
+<tr>
+<td align="center">
 
-### 💻
-
-**Role**
-
-Software
-Engineer
+💻 **Software Engineer**
 
 </td>
+</tr>
 
-<td align="center" width="180">
+<tr>
+<td align="center">
 
-### ☁️
-
-**Training**
-
-DevOps
-SCOPE INDIA
+☁️ **Currently pursuing DevOps Training at SCOPE INDIA**
 
 </td>
+</tr>
 
-<td align="center" width="180">
+<tr>
+<td align="center">
 
-### 🔐
+🔐 **Cyber Security Internship — SMEC Automation**
 
-**Experience**
+</td>
+</tr>
 
-Cyber Security
-Internship
+<tr>
+<td align="center">
+
+🎯 **Focused on DevSecOps, AWS & Cloud Security**
 
 </td>
 </tr>
 </table>
 
+<br>
+
+I'm building practical experience across **DevOps, Cloud Infrastructure, Automation and Security** through hands-on projects and continuous learning.
+
+</div>
+
 ---
 
 <div align="center">
 
-## 🧠 Tech Stack
+## ⚡ PROFILE HIGHLIGHTS
 
-### ☁️ Cloud & Infrastructure
+<br>
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark"/>
+<img src="https://img.shields.io/badge/🎓%20B.Tech-Information%20Technology-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💻%20Role-Software%20Engineer-111827?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Training-DevOps%20%40%20SCOPE%20INDIA-0EA5E9?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Amazon%20EKS-Cloud%20Container%20Orchestration-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔐%20Internship-Cyber%20Security-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀%20Approach-Hands--On%20Learning-0F766E?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎯%20Focus-DevSecOps%20%7C%20AWS%20%7C%20Cloud%20Security-F59E0B?style=for-the-badge"/>
 
-### 🔄 CI/CD & Automation
+</div>
 
-<img src="https://skillicons.dev/icons?i=jenkins,ansible,git,github&theme=dark"/>
+---
+
+<div align="center">
+
+# 🧠 TECH STACK
+
+## ☁️ Cloud & Infrastructure
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Amazon%20EKS-Container%20Orchestration-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br><br>
+
+## 🔄 CI/CD & Automation
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=jenkins,ansible,git,github&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Docker%20Hub-Container%20Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
-### 🐧 Systems & Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,html&theme=dark"/>
+## 🐧 Systems & Development
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html&theme=dark" />
 
 <br><br>
 
@@ -144,28 +165,30 @@ Internship
 
 <div align="center">
 
-## 🛡️ Security Focus
+# 🛡️ SECURITY
 
 <br>
 
 <img src="https://img.shields.io/badge/🔐%20Cyber%20Security-Foundation-111827?style=for-the-badge"/>
-&nbsp;
 <img src="https://img.shields.io/badge/🛡️%20DevSecOps-Current%20Focus-7C3AED?style=for-the-badge"/>
-&nbsp;
 <img src="https://img.shields.io/badge/☁️%20Cloud%20Security-Current%20Focus-0F766E?style=for-the-badge"/>
 
 <br><br>
 
-```text
-Cyber Security
-       ↓
-     DevOps
-       ↓
-      AWS
-       ↓
-   DevSecOps
-       ↓
-Cloud Security
+```text id="8y1y0e"
+        CYBER SECURITY
+               │
+               ▼
+             DEVOPS
+               │
+               ▼
+              AWS
+               │
+               ▼
+           DEVSECOPS
+               │
+               ▼
+        CLOUD SECURITY
 ```
 
 </div>
@@ -174,27 +197,31 @@ Cloud Security
 
 <div align="center">
 
-## 📚 Currently Learning
+# 📚 CURRENTLY LEARNING
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins,ansible,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins,ansible,docker&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/☁️%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/☸️%20Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/🏗️%20Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/🔄%20Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚙️%20Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/☁️%20Amazon%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EKS-Managed%20Kubernetes-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br><br>
 
-<b>DevSecOps • AWS • Cloud Security • DevOps Automation</b>
+### 🛡️ DevSecOps   •   ☁️ AWS   •   🔐 Cloud Security
+
+<br>
+
+<i>Continuously exploring new DevOps tools, cloud technologies and secure deployment practices.</i>
 
 </div>
 
@@ -202,7 +229,7 @@ Cloud Security
 
 <div align="center">
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 </div>
 
@@ -213,9 +240,9 @@ Cloud Security
 
 ## 🍔 Quick-Bite
 
-### End-to-End DevOps Deployment
+**End-to-End DevOps Deployment**
 
-Food delivery application used to implement a practical DevOps workflow covering CI/CD, containerization, Kubernetes and AWS deployment.
+Food delivery application used to demonstrate a practical CI/CD, containerization, Kubernetes and AWS deployment workflow.
 
 <br>
 
@@ -236,9 +263,9 @@ Food delivery application used to implement a practical DevOps workflow covering
 
 ## 🔧 Jenkins Shared Library
 
-### CI/CD Automation
+**CI/CD Automation**
 
-Hands-on project exploring reusable Jenkins pipeline components and CI/CD automation.
+Reusable Jenkins pipeline components created as hands-on DevOps practice.
 
 <br>
 
@@ -261,7 +288,7 @@ Hands-on project exploring reusable Jenkins pipeline components and CI/CD automa
 
 ## ☕ Maven Web App
 
-### DevOps Deployment Practice
+**DevOps Deployment Practice**
 
 Maven-based web application used for practical Jenkins, Docker and Kubernetes deployment learning.
 
@@ -284,9 +311,9 @@ Maven-based web application used for practical Jenkins, Docker and Kubernetes de
 
 ## 🩸 SYS Blood Bank
 
-### Web Application
+**Web Application**
 
-A practical web application project focused on blood bank and donor management.
+A practical web application focused on blood bank and donor management.
 
 <br>
 
@@ -308,6 +335,8 @@ A practical web application project focused on blood bank and donor management.
 
 ### 🌐 More Projects
 
+<br>
+
 <a href="https://github.com/Saf1111/QEMS-Website">
 <img src="https://img.shields.io/badge/QEMS%20Website-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -326,7 +355,7 @@ A practical web application project focused on blood bank and donor management.
 
 <div align="center">
 
-## 🔄 DevOps Journey
+# 🔄 DEVOPS JOURNEY
 
 <br>
 
@@ -342,13 +371,31 @@ A practical web application project focused on blood bank and donor management.
 &nbsp;→&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
+<br><br>
+
+```text id="5om6vo"
+SOURCE CODE
+     ↓
+CI / CD
+     ↓
+CONTAINERIZATION
+     ↓
+IMAGE MANAGEMENT
+     ↓
+ORCHESTRATION
+     ↓
+CLOUD DEPLOYMENT
+     ↓
+SECURE INFRASTRUCTURE
+```
+
 </div>
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <br>
 
@@ -368,7 +415,7 @@ A practical web application project focused on blood bank and donor management.
 
 <div align="center">
 
-## 🌍 Languages
+# 🌍 LANGUAGES
 
 <br>
 
@@ -388,7 +435,7 @@ A practical web application project focused on blood bank and donor management.
 
 <div align="center">
 
-## 🎯 Career Direction
+# 🎯 CAREER DIRECTION
 
 <br>
 
@@ -397,21 +444,9 @@ A practical web application project focused on blood bank and donor management.
 <img src="https://img.shields.io/badge/DevSecOps-Future%20Direction-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloud%20Security-Focus-0F766E?style=for-the-badge"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## 🧭 My Mindset
-
-<br>
-
-### **Learn → Build → Automate → Secure → Improve**
-
-<br>
-
-> *Learning through hands-on practice and turning knowledge into real-world projects.*
+### 🧭 Learn → Build → Automate → Secure → Improve
 
 </div>
 
@@ -419,7 +454,7 @@ A practical web application project focused on blood bank and donor management.
 
 <div align="center">
 
-## 🤝 Let's Connect
+# 🤝 LET'S CONNECT
 
 <br>
 
@@ -437,7 +472,7 @@ A practical web application project focused on blood bank and donor management.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Saf1111&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Saf1111&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
